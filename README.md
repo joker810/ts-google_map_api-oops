@@ -3,4 +3,4 @@
 3. stats - more oop inheritence and composition . why favor composition over inheritence .
 4. web frameworks:
 a. pub/sub system or event emitter(software design pattern observer pattern)
-b.
+b.UserForm.ts has ways to bind events using DocumentFragment when we had not react, jsx
