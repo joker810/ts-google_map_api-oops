@@ -5,3 +5,4 @@
 4. web frameworks:
 a. pub/sub system or event emitter(software design pattern observer pattern)
 b.UserForm.ts has ways to bind events using DocumentFragment when we had not react, jsx
+typescript-react-syntaxes/src :  go through syntaxes for ts-react
